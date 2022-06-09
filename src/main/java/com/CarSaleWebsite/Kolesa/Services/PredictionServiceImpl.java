@@ -1,6 +1,6 @@
 package com.CarSaleWebsite.Kolesa.Services;
 
-import com.CarSaleWebsite.Kolesa.Learning.PredictingModel;
+import com.CarSaleWebsite.Kolesa.Algorithm.PredictingModel;
 import com.CarSaleWebsite.Kolesa.Models.Order;
 import com.CarSaleWebsite.Kolesa.Models.OrderFood;
 import com.CarSaleWebsite.Kolesa.Services.interfaces.PredictionService;

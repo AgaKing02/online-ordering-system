@@ -1,4 +1,4 @@
-package com.CarSaleWebsite.Kolesa.Learning;
+package com.CarSaleWebsite.Kolesa.Algorithm;
 
 import com.CarSaleWebsite.Kolesa.Models.Food;
 import com.CarSaleWebsite.Kolesa.Models.OrderFood;
